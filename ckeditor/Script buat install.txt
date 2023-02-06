@@ -1,0 +1,6 @@
+	<script src="ckeditor/ckeditor.js"></script>
+	<script src="ckeditor/editor.js"></script>
+
+<script>
+	initSample();
+</script>
